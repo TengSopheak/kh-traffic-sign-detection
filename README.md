@@ -56,8 +56,8 @@ This project utilizes **YOLOv8m (You Only Look Once - Version 8 Medium)**.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/cambodia-traffic-sign-detection.git](https://github.com/yourusername/cambodia-traffic-sign-detection.git)
-    cd cambodia-traffic-sign-detection
+    git clone https://github.com/TengSopheak/ai-final-project.git
+    cd ai-final-project
     ```
 
 2.  **Install Dependencies**
